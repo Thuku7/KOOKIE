@@ -26,7 +26,7 @@
   height: 60vh;
   display: flex;
   flex-flow: column nowrap;
-  justify-content: center;
+  
   align-items: center;
   background-color: #364a4c;
 }
@@ -37,7 +37,8 @@
 }
 
 h2 {
-  margin-bottom: 5em;
+  margin-bottom: 4em;
+  margin-top: 1.5em;
 }
   
 
