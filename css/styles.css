@@ -53,4 +53,11 @@ body > section.about > div > div:nth-child(1) > p{
   height: 60vh;
 }
   
-
+.ingredients {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  background-color: #364a4c;
+}
