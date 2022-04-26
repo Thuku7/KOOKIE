@@ -44,5 +44,13 @@ h2 {
 body > section.about > div > div:nth-child(1) > p{
   margin-left: 1em;
 }
+
+.picture {
+  background-image:url(https://images.unsplash.com/photo-1584369372650-359b4003e743?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+}
   
 
