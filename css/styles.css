@@ -28,5 +28,14 @@
   justify-content: center;
   align-items: center;
 }
+
+.about-text {
+  display: flex;
+  margin-bottom: 2em;
+}
+
+h2 {
+  margin-bottom: 5em;
+}
   
 
