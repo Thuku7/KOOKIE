@@ -20,5 +20,13 @@
   text-align: center;
   color: white;
 }
+
+.about {
+  height: 60vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
   
 
