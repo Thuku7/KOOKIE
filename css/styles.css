@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 .hero {
@@ -27,6 +28,7 @@
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  background-color: #364a4c;
 }
 
 .about-text {
