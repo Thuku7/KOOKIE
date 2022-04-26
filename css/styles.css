@@ -88,5 +88,7 @@ body > section.about > div > div:nth-child(1) > p{
     display: flex;
     flex-direction: column-reverse;
   }
+
+  
   
 }
