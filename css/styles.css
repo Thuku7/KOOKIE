@@ -40,5 +40,9 @@ h2 {
   margin-bottom: 4em;
   margin-top: 1.5em;
 }
+
+body > section.about > div > div:nth-child(1) > p{
+  margin-left: 1em;
+}
   
 
