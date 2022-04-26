@@ -80,3 +80,13 @@ body > section.about > div > div:nth-child(1) > p{
   background-size: cover;
   height: 60vh;
 }
+
+
+@media (max-width:767px) {
+
+  body > section.samples > div > div > div:nth-child(2) {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+}
