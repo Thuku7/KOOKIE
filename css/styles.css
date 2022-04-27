@@ -33,8 +33,9 @@ body > section.hero > div > p:nth-child(1) > span{
   
 }
 
-.navbar-brand, .hero-text {
+.navbar-brand, .hero-text, .nav-link {
   font-family: "Sofia", sans-serif;
+  
 }
 
 body > section.hero > div > p:nth-child(2) {
@@ -44,7 +45,17 @@ body > section.hero > div > p:nth-child(2) {
 
 h2,h3,h4 {
   font-family: "Sofia", sans-serif;
+  font-weight: 400;
 
+}
+
+.nav-link {
+  font-size: 17px;
+}
+
+ .nav-link:hover {
+  border-radius: 10px;
+  background-color: rgb(109, 198, 225);
 }
 
 
@@ -148,6 +159,13 @@ footer {
 
   .hero-text {
     font-size: 0.5em;
+    padding-top: 3em;
+  }
+
+
+  .nav-link:hover {
+    border-radius: 10px;
+    background-color: rgb(181, 232, 248);
   }
 
   
