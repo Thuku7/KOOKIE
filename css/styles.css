@@ -33,6 +33,11 @@ body > section.hero > div > p:nth-child(1) > span{
   
 }
 
+body > section.hero > div > p:nth-child(1) > span:hover {
+  color: crimson;
+  
+}
+
 .navbar-brand, .hero-text, .nav-link {
   font-family: "Sofia", sans-serif;
   
