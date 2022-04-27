@@ -22,28 +22,33 @@
   color: white;
 }
 
-.about {
-  height: 60vh;
-  display: flex;
-  flex-flow: column nowrap;
-  
-  align-items: center;
-  background-color: #364a4c;
-}
 
-.about-text {
+.about {
+  height: 80vh;
+  background-color: #364a4c;
   display: flex;
-  margin-bottom: 2em;
+  flex-direction: column;
 }
 
 h2 {
-  margin-bottom: 4em;
-  margin-top: 1.5em;
+  height: 20%;
+  text-align: center;
+  padding-top: 1.5em;
 }
 
-body > section.about > div > div:nth-child(1) > p{
-  margin-left: 1em;
+.about-text {
+  height: 60%;
 }
+
+.about-btn {
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
 
 .picture {
   background-image:url(https://images.unsplash.com/photo-1584369372650-359b4003e743?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60) ;
