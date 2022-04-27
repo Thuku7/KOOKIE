@@ -88,6 +88,29 @@ h2 {
 }
 
 
+footer {
+  height: 60vh;
+  background-color: #1d292a;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.icons-contact {
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons {
+  height: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
 @media (max-width:767px) {
 
   body > section.samples > div > div > div:nth-child(2) {
