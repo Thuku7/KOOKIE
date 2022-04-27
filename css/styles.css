@@ -25,7 +25,7 @@
 
 .about {
   height: 80vh;
-  background-color: #364a4c;
+  background-color: #1d292a;
   display: flex;
   flex-direction: column;
 }
@@ -65,7 +65,7 @@ h2 {
   justify-content: center;
   align-items: center;
   height: 60vh;
-  background-color: #364a4c;
+  background-color: #1d292a;
 }
 
 .chocolate-image {
